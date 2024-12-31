@@ -1,0 +1,30 @@
+
+open call should 
+
+total sites
+open call with bank d
+total close calls
+Total Calls from Bank
+everything should be clickable
+
+add pagination to below records
+only open calls with all dependency 
+
+
+
+show close call resultion on view mis
+
+instead of alarm email remark show some custom text
+
+
+CHange Status 
+bank dependency
+4th ) FLM Visit Required
+in close 
+FLM Visited call closed
+Power Restored
+
+
+show reference ticket id in subject line 
+
+call lock in noc

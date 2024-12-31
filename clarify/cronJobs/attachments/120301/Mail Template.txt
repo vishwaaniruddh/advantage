@@ -1,0 +1,181 @@
+Dear Sir,
+
+We Suspect that the Power at subject Site is down, please send FLM Vendor and Confirm to enable us to take further action.
+
+Site Down : 
+
+ATM ID : 
+Address : 
+City : 
+
+Note : We Will Not Responsible For Down time & Penalty.
+
+-- 
+Regards,                         
+Amrapali Mogale
+NOC Executive.
+
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Sir,
+
+Mentioned site came up in NMS.
+
+Site Down : 
+Site Up : 
+Total Down Time :  Minutes 
+
+Note : We Will Not Responsible For Down time & Penalty.
+
+-- 
+Regards,                         
+Amrapali Mogale
+NOC Executive.
+
+
+
+Mentioned site link  is restored.
+
+Mentioned site came up in NMS.
+
+ATM machine is down due to power issue at site.
+
+Mentioned site power is restored.
+
+Mentioned site is offline due to power issue at site
+
+Mentioned site power is restored.
+
+
+Dear Sir,
+
+Mentioned site came up in NMS.
+
+Site Down : 
+Site Up : 
+Total Down Time :  Minutes 
+
+  
+ATM ID : 
+Address : 
+City : 
+
+ Note : We Will Not Responsible For Down time & Penalty.
+
+-- 
+Regards,                         
+Amrapali Mogale
+NOC Executive.
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Team,
+
+Kindly confirm the current status.
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Team,
+
+Subjected Machine is LIVE. Below ticket has been closed.
+
+Ticket ID : 
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Team,
+
+Kindly find the below Ticket details.      
+
+Ticket ID : 
+
+ATM ID : 
+Address : 
+City :  
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Sir,
+
+There is no network issue at site. 4G LTE link is up. Please find the below snap link is up from our end.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear sir,
+
+Please find the below site check and update.
+
+Ticket ID : 
+
+ATM ID : 
+Address : 
+City :  
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+As discus, please arrange snaps for subjected site.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Sir,
+
+As per Government directive local Internet services is closed for some reason in Darbhanga district.
+
+-- 
+Regards,                         
+Amrapali Mogale
+NOC Executive.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Dear Team,
+
+As discussed on call with ______ on ____AM/PM for arranging the FLM at site and revert back with ETA. Site Down from _____AM/PM.
+
+ATM ID : 
+Address : 
+City : 
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+New Ticket Created
+Dear [Customer Name],
+
+We have received your request to create a new ticket. Our team will review your request and respond as soon as possible.
+
+For your reference, here are the details of your new ticket:
+
+Thanks for your mail. We have noted the concern and will get back to you shortly. Refer the docket number F202402260000 for your future reference.
+
+Ticket ID: F202402260000
+Subject: Proposal for Enhancing Bollywood Content
+Description: Call Log
+To track the status of your ticket or reply, click the button below:
+
+Track and Reply
+If you have any further questions or concerns, please use the link above or reply to this email.
+
+Thank you,
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+--
+Regards,
+Deepak Kadani
+NOC Executive.
+
+
+Dear Team,
+
+ 
+
+The subject ATM site is not yet migrated on our RailTel Network.
+
+Kindly take a note.
+
+ The subject ATM ID S1BB000005002 could not be found in our NMS portal.

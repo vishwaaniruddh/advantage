@@ -1,0 +1,101 @@
+Dear Sir,
+
+We Suspect that the Power at subject Site is down, please send FLM Vendor and Confirm to enable us to take further action.
+
+Site Down :
+
+ATM ID :
+Address :
+
+
+Regards
+Victor 
+NOC Executive
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Sir,
+
+Mentioned site came up in NMS
+
+Site Down :
+Site Up :
+Total Down Time :  Minutes
+  
+ATM ID :
+Address :      
+
+Thanks and Regards
+    Victor
+NOC Team
+
+Mentioned Site Power is restored.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Team,
+
+Kindly confirm the current status.
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Team,
+
+Subjected Machine is LIVE. Below ticket has been closed.
+
+Ticket ID : 
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Team,
+
+Kindly find the below Ticket details.      
+
+Ticket ID : 
+
+ATM ID : 
+Address : 
+City :  
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Sir,
+
+There is no network issue at site. 4G LTE link is up. Please find the below snap link is up from our end.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear sir,
+
+Please find the below site check and update.
+
+Ticket ID : 
+
+ATM ID : 
+Address : 
+City :  
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+As discus, please arrange snaps for subjected site.
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Sir,
+
+As per Government directive local Internet services is closed for some reason in Darbhanga district.
+
+-- 
+Thanks & Regards,
+NOC Team.
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+Dear Team,
+
+As discussed on call with Suvidha on 1:21 PM for arranging the FLM at site and revert back with ETA. Site Down from 11:11 AM.
+
+ATM ID : S1NB000074142
+Address : RCC DURGAPUR 142 , Kolkata
+City : Kolkata

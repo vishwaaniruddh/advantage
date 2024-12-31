@@ -1,0 +1,89 @@
+14th March 
+threads Issues ..... showing random mail content
+to receiveing issue
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <select name="" class="form-control" required>
+                            <option value="Power Restored">Power Restored</option>
+                            <option value="FLM Visited call closed">FLM Visited call closed</option>
+                            <option value="Spares Replaced">Spares Replaced</option>
+                            <option value="Antena relocated">Antenna relocated</option>
+                            <option value="Loose connection fixed">Loose connection fixed</option>
+                            <option value="Power turned on">Power turned on</option>
+                            <option value="Router rebooted">Router rebooted</option>
+                            <option value="LAN cable replaced or label fixed (if damaged).">LAN cable replaced or label fixed (if damaged).</option>
+                            <option value="Electrical wiring done">Electrical wiring done</option>
+                            <option value="SIM replaced">SIM replaced</option>
+                            <option value="SIM re-inserted">SIM re-inserted</option>
+                            <option value="No issue found">No issue found</option>
+                            <option value="VPN Restore">VPN Restore</option>
+                            
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESD / ASD 
+dashboard count
+
+Estimated Planned Sites / Actual Live Sites
+
+Start ASD => Start Feasibility
+
+
+
+Forth card
+Held-up Sites (all data date wise desc)
+LHO wise 
+(hold installation )
+reason- 
+
+
+Site Status LHO Wise : 
+show live sites
+
+Installation Calls With Most Pending Time
+ give link to show all pending sites
+
+ feasibilityData.php 
+ date range
+ vendor
+ status : approved , reject
+ unique ATMID
+
+ feasibiltiy approve / rejected / not feasible  ------------ clickable 
+
+feasibilityReport1.php
+    Add Heldup in feasibilty report 
+
+
+
+add bank dependency in schedule , feasibiltity and installation , IR reports in clarity 
+bank dependency in clarify which is already working 
+

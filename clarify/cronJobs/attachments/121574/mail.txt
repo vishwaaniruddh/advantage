@@ -1,0 +1,36 @@
+Dear Sir,
+
+We Suspect that the Power at subject Site is down, please send FLM Vendor and Confirm to enable us to take further action.
+
+Site Down : 
+
+ATM ID : 
+Address : 
+City : 
+
+Note : We Will Not Responsible For Down time & Penalty.
+
+-- 
+Regards,                         
+Mayur Mulgaonkar
+NOC Executive.
+
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Dear Sir,
+
+Mentioned site came up in NMS.
+
+Site Down : 
+Site Up : 
+Total Down Time :  Minutes 
+
+Note : We Will Not Responsible For Down time & Penalty.
+
+-- 
+Regards,                         
+Mayur Mulgaonkar
+NOC Executive.

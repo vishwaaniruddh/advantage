@@ -1,0 +1,199 @@
+
+Full texts
+id
+siteid
+noOfAtm
+ATMID1
+ATMID2
+ATMID3
+address
+city
+location
+LHO
+state
+atm1Status
+atm2Status
+atm3Status
+operator
+signalStatus
+backroomNetworkRemark
+backroomNetworkSnap
+AntennaRoutingdetail
+EMLockPassword
+EMlockAvailable
+NoOfUps
+PasswordReceived
+Remarks
+UPSAvailable
+UPSBateryBackup
+UPSWorking1
+UPSWorking2
+UPSWorking3
+backroomDisturbingMaterial
+backroomDisturbingMaterialRemark
+backroomKeyName
+backroomKeyNumber
+backroomKeyStatus
+earthing
+earthingVltg
+frequentPowerCut
+frequentPowerCutFrom
+frequentPowerCutRemark
+frequentPowerCutTo
+nearestShopDistance
+nearestShopName
+nearestShopNumber
+powerFluctuationEN
+powerFluctuationPE
+powerFluctuationPN
+powerSocketAvailability
+routerAntenaPosition
+routerAntenaSnap
+AntennaRoutingSnap
+UPSAvailableSnap
+NoOfUpsSnap
+upsWorkingSnap
+powerSocketAvailabilitySnap
+earthingSnap
+powerFluctuationSnap
+remarksSnap
+status
+created_at
+powerSocketAvailabilityUPS
+powerSocketAvailabilityUPSSnap
+operator2
+signalStatus2
+backroomNetworkRemark2
+backroomNetworkSnap2
+created_by
+feasibilityDone
+isVendor
+ticketid
+verificationStatus
+ATMID1Snap
+ATMID2Snap
+ATMID3Snap
+routerPosition
+routerPositionSnap
+verificationBy
+verificationByName
+backroomDisturbingMaterialSnap
+	
+Edit Edit
+Copy Copy
+Delete Delete
+518
+0
+1
+S1BB000300393
+NULL
+NULL
+U S CLUB COLABA MUMBAI
+MUMBAI
+U S CLUB COLABA MUMBAI
+MUMBAI METRO
+MAHARASHTRA
+Yes
+Airtel
+-85
+Good
+../feasibiltyData/2024/04/518/57076_gNet (1).jpeg
+Routing through Ceil
+No
+1
+NA
+Yes
+6
+Yes
+No
+Patra
+9663517253
+Available with Bank
+Yes
+0
+No
+2km
+Gupta hadware
+9321558456
+0
+207
+242
+Yes
+Out Side the lobby
+../feasibiltyData/2024/04/518/84571_Lobby (3).jpeg
+../feasibiltyData/2024/04/518/30355_Lobby (3).jpeg
+../feasibiltyData/2024/04/518/38968_UPS.jpeg
+../feasibiltyData/2024/04/518/68061_UPS.jpeg
+../feasibiltyData/2024/04/518/62207_UPS.jpeg
+../feasibiltyData/2024/04/518/17039_ups (1).jpeg
+../feasibiltyData/2024/04/518/64003_ups (1).jpeg
+../feasibiltyData/2024/04/518/64063_ups (3).jpeg,....
+../feasibiltyData/2024/04/518/61426_Lobby (3).jpeg
+1
+2024-04-12 18:22:52
+No
+../feasibiltyData/2024/04/518/19656_UPS.jpeg
+Vodafone
+-82
+Good
+../feasibiltyData/2024/04/518/15886_gNet (2).jpeg
+110194
+Yes
+1
+../feasibiltyData/2024/04/518/5845_ATM ID.jpeg
+Fixed on wall
+../feasibiltyData/2024/04/518/6392_ups (2).jpeg
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESD / ASD 
+dashboard count
+
+Estimated Planned Sites / Actual Live Sites
+
+Start ASD => Start Feasibility
+
+
+
+Forth card
+Held-up Sites (all data date wise desc)
+LHO wise 
+(hold installation )
+reason- 
+
+
+Site Status LHO Wise : 
+show live sites
+
+Installation Calls With Most Pending Time
+give link to show all pending sites
+
+ feasibilityData.php 
+ date range
+ vendor
+ status : approved , reject
+ unique ATMID
+
+ feasibiltiy approve / rejected / not feasible  ------------ clickable 
+
+feasibilityReport1.php
+    Add Heldup in feasibilty report 
+
+
+
+
+meeting points to be modify :
+13th August 2024
+
+1) once approved feasibilty point : that option to be freeze
