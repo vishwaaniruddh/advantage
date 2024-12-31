@@ -1,5 +1,5 @@
 # Ignore image files
-*.png
+clarify/emailAttachments/2024/05
 *.jpg
 *.JPEG
 *.sql
