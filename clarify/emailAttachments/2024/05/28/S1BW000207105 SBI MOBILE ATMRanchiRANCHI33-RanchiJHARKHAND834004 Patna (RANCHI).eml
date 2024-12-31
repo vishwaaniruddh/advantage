@@ -1,0 +1,130 @@
+From - Thu Apr 11 11:38:32 2024
+X-Account-Key: account1
+X-UIDL: 202404111133059364
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+DKIM-Signature: a=rsa-sha256; t=1712815386; x=1713420186; s=iwc; d=hitachi-payments.com; c=relaxed/relaxed; v=1; bh=0DZCf2HAW+Uo/0DySotEt4lRXGaIOo2FzugO3JSSKzs=; h=From:Subject:Date:Message-ID:To:Cc:MIME-Version:Content-Type:In-Reply-To:References;
+   b=iYAPb//3dJPbbGe7xly+o3+UrZqBQkvA4Vp+cIsJeGPYoMuyiVgv1ExKIUrfUOahRkTpGef5edeKmtMT+02lgEuvDmDmLX3Hck4OXNuG4HXnT75s16ePZtbyLlLWqnOLtTFhBfT8nvyFKao3lAMAxBWeg3MPUKbDqXTb9BffGT00FINPRZpKtdGgcHKFpKqrGaJvIIQm0Cknmea32Uo2dAshaHeG/dTdnH2liP83iREWYS2gQZG42xba2P0ktb+KvCBjr5fEGVDAyRC6UDxQ0Zw1Uksd4yU/Ll/VRegnzOiolqkIDbcvpPOeG9ZFx/7WmHJ3D+iqEf788Uzy1+bJVg==
+Received: from [172.17.20.176] ([14.194.19.42])
+        by in-mum-m230.icewarpcloud.in (13.0.3 build 8 RHEL7 x64) with ASMTP (SSL) id 202404111133039203;
+        Thu, 11 Apr 2024 11:33:03 +0530
+Content-Type: multipart/alternative;
+ boundary="------------w7nTHMrV7xHoFJTwZBExAYFf"
+Message-ID: <2a9acdcd-02c3-1ab4-435f-90b314ea3fde@hitachi-payments.com>
+Date: Thu, 11 Apr 2024 11:33:01 +0530
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.0.2
+Subject: Re: S1BW000207105 SBI MOBILE ATMRanchiRANCHI33-RanchiJHARKHAND834004
+ Patna (RANCHI)
+Content-Language: en-US
+To: noc@advantagesb.com, jeevan.shakya@hitachi-payments.com,
+ avanti.shinde@agsindia.com, sachinlaxman.pawar@agsindia.com,
+ anita.suvarna@agsindia.com, harjit.dhooper@agsindia.com,
+ pradeep.koshti@agsindia.com, joy.sikdar@agsindia.com
+Cc: madhukar.pandey@hitachi-payments.com, Avanish.Kumar@hitachi-payments.com,
+ Vivek2.Kumar@hitachi-payments.com, surendra.kumar@hitachi-payments.com,
+ shivam <shivam.shukla@agsindia.com>, Sudhir <sudhir@advantagesb.com>,
+ Umesh Karambelkar <umesh@advantagesb.com>, Navnath
+ <navnath@advantagesb.com>, jayraman@advantagesb.com,
+ mangesh@advantagesb.com, sbi.agsmonitoring@agsindia.com,
+ Upendra.Singh@hitachi-payments.com, avinash.s@hitachi-payments.com,
+ shubham.pathake@gmail.com, sbi.patna@hitachi-payments.com
+References: <4e839a10acacc0f58901590fcc049dbf@advantagesb.com>
+From: Rupika Mishra <rupika.mishra@hitachi-payments.com>
+In-Reply-To: <4e839a10acacc0f58901590fcc049dbf@advantagesb.com>
+X-CTCH: RefID="str=0001.0A702F18.66177D17.0062,ss=1,re=0.000,recu=0.000,reip=0.000,cl=1,cld=1,fgs=0"; Spam="Unknown"; VOD="Unknown"
+Reply-To: Rupika Mishra <rupika.mishra@hitachi-payments.com>
+
+This is a multi-part message in MIME format.
+--------------w7nTHMrV7xHoFJTwZBExAYFf
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Dear Team,
+
+*machine is under shifting same infirm to cm anup sir for inactive atm ( 
+cash removal done ) *
+
+
+-- 
+Thanks & Regards ,
+Rupika Mishra.
+Helpdesk-Executive
+Hitachi Payment Services Pvt. Ltd.
+Contact no-9900268854
+Toll Free: +911206973989
+
+
+
+On 4/10/2024 7:07 PM, noc@advantagesb.com wrote:
+> Dear Sir,
+>
+> We Suspect that the Power at subject Site is down, please send FLM 
+> Vendor and Confirm to enable us to take further action.
+>
+> Site Down : 6:21 PM
+>
+>
+> ATM ID : S1BW000207105
+> Address : SBI MOBILE ATMRanchiRANCHI33-RanchiJHARKHAND834004
+> City : Patna (RANCHI)
+>
+--------------w7nTHMrV7xHoFJTwZBExAYFf
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p>Dear Team,</p>
+    <p><b>machine is under shifting same infirm to cm anup sir for
+        inactive atm ( cash removal done )  </b>  <br>
+    </p>
+    <p><br>
+    </p>
+    <pre class="moz-signature" cols="72">-- 
+Thanks &amp; Regards ,
+Rupika Mishra.
+Helpdesk-Executive
+Hitachi Payment Services Pvt. Ltd.
+Contact no-9900268854
+Toll Free: +911206973989</pre>
+    <p></p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <div class="moz-cite-prefix">On 4/10/2024 7:07 PM,
+      <a class="moz-txt-link-abbreviated" href="mailto:noc@advantagesb.com">noc@advantagesb.com</a> wrote:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:4e839a10acacc0f58901590fcc049dbf@advantagesb.com">Dear
+      Sir,
+      <br>
+      <br>
+      We Suspect that the Power at subject Site is down, please send FLM
+      Vendor and Confirm to enable us to take further action.
+      <br>
+      <br>
+      Site Down : 6:21 PM
+      <br>
+      <br>
+      <br>
+      ATM ID : S1BW000207105
+      <br>
+      Address : SBI MOBILE ATMRanchiRANCHI33-RanchiJHARKHAND834004
+      <br>
+      City : Patna (RANCHI)
+      <br>
+      <br>
+    </blockquote>
+    <pre class="moz-signature" cols="72">
+</pre>
+  </body>
+</html>
+
+--------------w7nTHMrV7xHoFJTwZBExAYFf--

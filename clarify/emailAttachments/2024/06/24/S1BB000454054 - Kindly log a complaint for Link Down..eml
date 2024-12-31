@@ -1,0 +1,194 @@
+From - Fri Jun 21 14:27:01 2024
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+X-Account-Key: account1
+X-UIDL: 202406211426283283
+DKIM-Signature: a=rsa-sha256; t=1718960188; x=1719564988; s=iwc; d=hitachi-payments.com; c=relaxed/relaxed; v=1; bh=hKOt1xMx5O7zGeQ7GZx7TDQhB4dPGpKym4ESuBtfNys=; h=From:Subject:Date:Message-ID:To:Cc:MIME-Version:Content-Type;
+   b=DCKJvwaiEmjWEwNkiCHVYjzrckfWI10Q9TwajxCPZZLqRx9i8Nsi9xv9akytjmfyEPAof0oCW3sMaPz1r1+gm/0U54iCOC2K4z2laRpzXCltFVGaOaN3ANiBGlo8/tv3SlpweREsIREtFDj0NrlOfR/OA/YYJ1RKho0sLWZCJJZ+TnGNrfwZayCeCEvCWlZYFqam9CD9U2NY1uUqm96aUnzqSjps9aXVZxOMzYGhBJtoznNxdIkMRJS/nYdBKnj8puRgTo9TZorkElJeG+m9Cb8zs8HsajKAaw8pkF2DyIAByJ2gdHu/cnFzVVZcx8nY3YEL020+W0Xz+kheB8nTmg==
+Received: from HPY-IDC-EXCH1.Hitachi-payments.com ([1.7.140.3])
+        by in-mum-m230.icewarpcloud.in (13.0.3 build 8 RHEL7 x64) with SMTP (SSL) id 202406211426252964;
+        Fri, 21 Jun 2024 14:26:25 +0530
+Content-Type: multipart/alternative;
+	boundary="------------3ieCa2Gc0PXaI2Cag9nBSGuc"
+Content-Language: en-US
+DKIM-Signature: v=1; a=rsa-sha256; d=hitachi-payments.com; s=mail;
+	c=relaxed/relaxed; t=1718960185; h=from:subject:to:date;
+	bh=hKOt1xMx5O7zGeQ7GZx7TDQhB4dPGpKym4ESuBtfNys=;
+	b=hm7LkmmZ1/d3JNX7wIKKcSymx1QLGM2uX1K6WTf0fNoZSMDpjas7dkIO0HeZQXv5/KG76OrxP/V
+	af9W9etiD0xDJiy9d6ZSGAd9jEPThHRexqvNwdm1axRlQm9USzmUjjsnZ9eBGKYWeh/2Qq3Oxgf/W
+	tG+kXY4Pl3gZuAyFR5g=
+Received: from [172.17.26.140] (172.17.26.140) by
+ HPY-IDC-EXCH1.Hitachi-payments.com (172.16.3.190) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.1.2507.35; Fri, 21 Jun 2024 14:26:25 +0530
+Message-ID: <7a0af54c-93d3-4b62-95b7-fb4578194c0f@hitachi-payments.com>
+Date: Fri, 21 Jun 2024 14:26:24 +0530
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+To: <noc@advantagesb.com>
+CC: <Sachin.Devkar@hitachi-payments.com>,
+	<ajit.nirbhavane@hitachi-payments.com>,
+	<devendra.bambulkar@hitachi-payments.com>, 'Vishal Keny'
+	<vishal.keny@hitachi-payments.com>, 'Anshuman Pawar'
+	<anshuman.pawar@hitachi-payments.com>, 'hd-sbi-cluster2'
+	<hd-sbi-cluster2@hitachi-payments.com>, 'sbi.kolkata'
+	<sbi.kolkata@hitachi-payments.com>, "'Vaibhav P. Nagare'"
+	<vaibhav.nagare@hitachi-payments.com>, <sunil.mishra@hitachi-payments.com>,
+	<abhijit.doiphode@hitachi-payments.com>,
+	"yogesh.batekar@hitachi-payments.com" <yogesh.batekar@hitachi-payments.com>,
+	'Makarand Ramane' <makarand.ramane@hitachi-payments.com>, Jalindar Bhor
+	<cmf22pune.mah@sbi.co.in>
+From: hd-sbi-cluster1 <hd-sbi-cluster1@hitachi-payments.com>
+Subject: S1BB000454054 - Kindly log a complaint for Link Down.
+Return-Path: hd-sbi-cluster1@hitachi-payments.com
+X-Originating-IP: [172.17.26.140]
+X-ClientProxiedBy: HPY-IDC-EXCH1.Hitachi-payments.com (172.16.3.190) To
+ HPY-IDC-EXCH1.Hitachi-payments.com (172.16.3.190)
+
+--------------3ieCa2Gc0PXaI2Cag9nBSGuc
+Content-Type: text/plain; charset="utf-8"; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+RAIL-TEL Team,
+
+Kindly log a complaint for Link Down.
+
+FLM/CRA Custodian/Branch Manager/Person : CHAITANYA 8805158167
+
+ATM ID  SITE ADDRESS    CITY    CIRCLE  Link Vendor     ATM IP
+S1BB000454054
+        CORNER VIEW, YERWADA    PUNE    MAHARASHTRA     Railtel Capex   10.=
+130.14.246
+
+Kindly Log a complaint and share docket no.
+
+
+Regards,
+Omkar Chaurasiya
+Helpdesk_Mumbai
+Hitachi-Payments Service
+________________________________
+
+Disclaimer: The information contained in this Message is confidential or pr=
+ivileged and intended only for the use of the individual or entity identifi=
+ed. If the reader of this message is not the intended recipient, any dissem=
+ination, distribution or copying of the information contained in this messa=
+ge is strictly prohibited. Any commercial information given in this message=
+ does not constitute an offer to deal unless otherwise stated. If you recei=
+ved this message in error, please delete the message and notify the sender =
+immediately.
+
+________________________________
+
+
+
+--------------3ieCa2Gc0PXaI2Cag9nBSGuc
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+<p><font face=3D"Calibri" color=3D"#000000">RAIL-TEL Team,</font> <font fac=
+e=3D"Calibri" color=3D"#000000">
+<br>
+</font><font face=3D"Calibri" color=3D"#000000"><br>
+</font><font face=3D"Calibri" color=3D"#000000">Kindly log a complaint for =
+Link Down.
+</font><font face=3D"Calibri" color=3D"#000000"><br>
+</font><font face=3D"Calibri" color=3D"#000000"><br>
+</font><font face=3D"Calibri" color=3D"#000000">FLM/CRA Custodian/Branch Ma=
+nager/Person : CHAITANYA 8805158167</font><font face=3D"Calibri" color=3D"#=
+000000"><br>
+</font></p>
+<table cellspacing=3D"0" border=3D"0">
+<colgroup width=3D"99"></colgroup><colgroup width=3D"175"></colgroup><colgr=
+oup width=3D"319">
+</colgroup><colgroup width=3D"121"></colgroup><colgroup width=3D"158"></col=
+group><colgroup width=3D"78">
+</colgroup><colgroup width=3D"166"></colgroup>
+<tbody>
+<tr>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" height=3D"17" bgcolor=3D"#333399" align=3D"center">
+<b><font face=3D"Calibri" color=3D"#FFFFFF">ATM ID</font></b></td>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" bgcolor=3D"#333399" align=3D"center">
+<b><font face=3D"Calibri" color=3D"#FFFFFF">SITE ADDRESS</font></b></td>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" bgcolor=3D"#333399" align=3D"center">
+<b><font face=3D"Calibri" color=3D"#FFFFFF">CITY</font></b></td>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" bgcolor=3D"#333399" align=3D"center">
+<b><font face=3D"Calibri" color=3D"#FFFFFF">CIRCLE</font></b></td>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" bgcolor=3D"#333399" align=3D"center">
+<b><font face=3D"Calibri" color=3D"#FFFFFF">Link Vendor</font></b></td>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" bgcolor=3D"#333399" align=3D"center">
+<b><font face=3D"Calibri" color=3D"#FFFFFF">ATM IP</font></b></td>
+</tr>
+<tr>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" height=3D"17" align=3D"center">
+<font face=3D"Calibri" color=3D"#000000">S1BB000454054 <br>
+</font></td>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" align=3D"center">
+<font face=3D"Calibri">CORNER VIEW, YERWADA</font></td>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" align=3D"center">
+<font face=3D"Calibri">PUNE</font></td>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" align=3D"center">
+<font face=3D"Calibri">MAHARASHTRA</font></td>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" align=3D"center">
+<font face=3D"Calibri">Railtel Capex</font></td>
+<td style=3D"border-top: 1px solid #000000; border-bottom: 1px solid #00000=
+0; border-left: 1px solid #000000; border-right: 1px solid #000000" valign=
+=3D"middle" align=3D"center">
+<font face=3D"Calibri">10.130.14.246</font></td>
+</tr>
+</tbody>
+</table>
+<font face=3D"Calibri" color=3D"#000000"><br>
+Kindly </font><font face=3D"Calibri" color=3D"#000000">Log a complaint and =
+share docket no.</font><br>
+<font face=3D"Calibri" color=3D"#000000"><br>
+<br>
+Regards, <br>
+Omkar Chaurasiya <br>
+Helpdesk_Mumbai <br>
+Hitachi-Payments Service </font>
+<hr>
+<p>Disclaimer: The information contained in this Message is confidential or=
+ privileged and intended only for the use of the individual or entity ident=
+ified. If the reader of this message is not the intended recipient, any dis=
+semination, distribution or copying
+ of the information contained in this message is strictly prohibited. Any c=
+ommercial information given in this message does not constitute an offer to=
+ deal unless otherwise stated. If you received this message in error, pleas=
+e delete the message and notify
+ the sender immediately.</p>
+<hr>
+<p>&nbsp;</p>
+</body>
+</html>
+
+--------------3ieCa2Gc0PXaI2Cag9nBSGuc--

@@ -1,0 +1,275 @@
+X-Account-Key: account4
+X-UIDL: 545027
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 10000000
+X-Mozilla-Keys:
+Received: from HPY-IDC-EXCH1.Hitachi-payments.com (172.16.3.190) by
+ HPY-IDC-EXCH1.Hitachi-payments.com (172.16.3.190) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.1.2507.34 via Mailbox Transport; Sat, 27 Jan 2024 20:06:16 +0530
+Content-Type: multipart/mixed;
+	boundary="------------OupqJQ9tV7PnFnfQhK0G4M9B"
+Content-Language: en-GB
+DKIM-Signature: v=1; a=rsa-sha256; d=hitachi-payments.com; s=mail;
+	c=relaxed/relaxed; t=1706366176; h=from:subject:to:date;
+	bh=11IRvIamZu1GlrDjkfA6enCGGfskE5/pOuiPHvRpaW4=;
+	b=HaKgGqcoLPAHtWVrZwSC1y041v4pFN/iEfVNWV0j79GE7+MBLOgiZ7xOManpB3QSXB/eaq1sScy
+	rR1RxxhQzWHd7VQ9zDyUrAp6VY6SlpVGonHFBDzB4WNNy9k/ghgOOFR8uY+YqM5ZBzBDh4EWGH32o
+	iyvt1r4ylzroO1VYjCM=
+Received: from HPY-IDC-EXCH1.Hitachi-payments.com (172.16.3.190) by
+ HPY-IDC-EXCH1.Hitachi-payments.com (172.16.3.190) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.1.2507.34; Sat, 27 Jan 2024 20:06:16 +0530
+Received: from in-mum-m230.icewarpcloud.in (103.161.42.40) by
+ email.Hitachi-payments.com (172.16.3.190) with Microsoft SMTP Server id
+ 15.1.2507.34 via Frontend Transport; Sat, 27 Jan 2024 20:06:16 +0530
+DKIM-Signature: a=rsa-sha256; t=1706366174; x=1706970974; s=iwc; d=hitachi-payments.com; c=relaxed/relaxed; v=1; bh=uREG39VZUYCN7PstSim5rO96zC9PgXWUuENeiVWJK4M=; h=From:Subject:Date:Message-ID:To:Cc:MIME-Version:Content-Type;
+   b=8FAOUQViqV4WLsTFcmfbaHBsEhEIABmGV14Wl3e4XSYBgSy9o+QFRlfi9LBqsha1WzUpJQfBnMSC3JJAfYurex9AyqjpeXKEBcLIaz3TlRvOLkGbT1tP3jR6DGDVR2rGSttdVxAqpxh7BQA+VHWKV9fomsOtAnaoVVyzpWnK68Y8xnzl53Ce+F/+WLLfiNjuqelVdrBUHUJRPk/GxuRhOoDMSNFtaxRqme5tliK1LE7iiwQxzgxobsR/InLgFKq0ICNtyXg+LrZnbZiTCHB8XCjF39LVtPlJKvOL80+/axNXuGkv5z68QEeSDInAsIcMsprGdTtcDt86TROJA4bZXQ==
+Received: from [172.17.27.61] ([125.22.161.214])
+        by in-mum-m230.icewarpcloud.in (13.0.3 build 8 RHEL7 x64) with ASMTP (SSL) id 202401272006136063;
+        Sat, 27 Jan 2024 20:06:13 +0530
+Message-ID: <dbac2ab4-c376-4c46-bca8-b2d6c03a056b@hitachi-payments.com>
+Date: Sat, 27 Jan 2024 20:06:09 +0530
+User-Agent: Mozilla Thunderbird
+To: <helpdesk@numericups.com>, <pawan.adhikari@numericups.com>
+CC: Ajit Nirbhavane' <ajit.nirbhavane@hitachi-payments.com>, 'Sachin Devkar'
+	<sachin.devkar@hitachi-payments.com>, "'Devendra M. Bambulkar'"
+	<Devendra.Bambulkar@hitachi-payments.com>, 'Vishal Keny'
+	<vishal.keny@hitachi-payments.com>, Yogesh Batekar
+	<Yogesh.Batekar@hitachi-payments.com>, "suraj l. khartode"
+	<suraj.khartode@hitachi-payments.com>,
+	"omkar.chaurasiya@hitachi-payments.com"
+	<omkar.chaurasiya@hitachi-payments.com>, "jyoti.v@hitachi-payments.com"
+	<jyoti.v@hitachi-payments.com>, 'Anshuman Pawar'
+	<anshuman.pawar@hitachi-payments.com>, "'Sumit M. Hande'"
+	<sumit.hande@hitachi-payments.com>, 'hd-sbi-cluster2'
+	<hd-sbi-cluster2@hitachi-payments.com>, 'hd-sbi-cluster1'
+	<hd-sbi-cluster1@hitachi-payments.com>
+From: "Mitesh S. Tambe" <mitesh.tambe@hitachi-payments.com>
+Subject: S1BG000454491 - Kindly log a complaint for UPS is not working.
+X-CTCH: RefID="str=0001.0A702F2A.65B514DD.005F,ss=1,re=0.000,recu=0.000,reip=0.000,cl=1,cld=1,fgs=0"; Spam="Unknown"; VOD="Unknown"
+Return-Path: mitesh.tambe@hitachi-payments.com
+X-MS-Exchange-Organization-Network-Message-Id: f60dd115-a550-408e-c823-08dc1f455186
+X-MS-Exchange-Organization-AuthSource: HPY-IDC-EXCH1.Hitachi-payments.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2713329
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2507.034
+MIME-Version: 1.0
+
+--------------OupqJQ9tV7PnFnfQhK0G4M9B
+Content-Type: multipart/alternative;
+	boundary="------------84kQcVRyjnCIM0uz6YZC3l0h"
+
+--------------84kQcVRyjnCIM0uz6YZC3l0h
+Content-Type: text/plain; charset="UTF-8"; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Numeric Team, 	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+Kindly log a complaint for UPS is not working.
+
+	
+	
+	
+	
+	
+	
+FLM/CRA Custodian  : RAHUL VIJAY CHAVAN ( 9834715607 )
+
+	
+	
+	
+	
+	
+	
+*ATM ID* 	*SITE ADDRESS* 	*CITY* 	*CIRCLE* 	*UPS Make* 	
+	
+S1BG000454491 	CENTER FOR POLICE RESEARCH, CHAVAN NAGAR, NEAR NCL CAMPUS 
+BRANCH, PASHAN, PUNE -411008 	PUNE CITY 	MAHARASHTRA 	Numeric 	
+	
+
+	
+	
+	
+	
+	
+	
+Log a complaint and share docket no. ASAP.
+
+
+Regards,
+Mitesh Tambe
+Helpdesk_Mumbai
+Hitachi-Payments Service
+
+--------------84kQcVRyjnCIM0uz6YZC3l0h
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  </head>
+  <body>
+    <p>
+    </p>
+    <table cellspacing="0" border="0">
+      <colgroup width="99"></colgroup> <colgroup width="175"></colgroup>
+      <colgroup width="319"></colgroup> <colgroup width="121"></colgroup>
+      <colgroup width="158"></colgroup> <colgroup width="78"></colgroup>
+      <colgroup width="166"></colgroup> <tbody>
+        <tr>
+          <td colspan="2" valign="top" height="17" align="left"><font face="Calibri" color="#000000">Numeric Team,</font></td>
+          <td valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+        </tr>
+        <tr>
+          <td valign="middle" height="17" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+        </tr>
+        <tr>
+          <td colspan="7" valign="top" height="17" align="left"><font face="Calibri" color="#000000">Kindly log a complaint for
+              UPS is not working.</font></td>
+        </tr>
+        <tr>
+          <td valign="top" height="17" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+        </tr>
+        <tr>
+          <td colspan="7" valign="top" height="17" align="left"><font face="Calibri" color="#000000">FLM/CRA Custodian&nbsp; : RAHUL
+              VIJAY CHAVAN ( 9834715607 ) <br>
+            </font></td>
+        </tr>
+        <tr>
+          <td style="border-bottom: 1px solid #000000" valign="top" height="17" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td style="border-bottom: 1px solid #000000" valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td style="border-bottom: 1px solid #000000" valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td style="border-bottom: 1px solid #000000" valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td style="border-bottom: 1px solid #000000" valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td style="border-bottom: 1px solid #000000" valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td style="border-bottom: 1px solid #000000" valign="top" align="left"><font face="Calibri" color="#000000"><br>
+            </font></td>
+        </tr>
+        <tr>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" height="17" bgcolor="#333399" align="center"><b><font face="Calibri" color="#FFFFFF">ATM ID</font></b></td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" bgcolor="#333399" align="center"><b><font face="Calibri" color="#FFFFFF">SITE ADDRESS</font></b></td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" bgcolor="#333399" align="center"><b><font face="Calibri" color="#FFFFFF">CITY</font></b></td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" bgcolor="#333399" align="center"><b><font face="Calibri" color="#FFFFFF">CIRCLE</font></b></td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" bgcolor="#333399" align="center"><b><font face="Calibri" color="#FFFFFF">UPS Make</font></b></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+        </tr>
+        <tr>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" height="68" align="center"><font face="Calibri" color="#000000">S1BG000454491</font></td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" align="center"><font face="Calibri" color="#000000">CENTER FOR POLICE RESEARCH, CHAVAN NAGAR,
+              NEAR NCL CAMPUS BRANCH, PASHAN, PUNE -411008</font></td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" align="center"><font face="Calibri" color="#000000">PUNE CITY</font></td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" align="center"><font face="Calibri" color="#000000">MAHARASHTRA</font></td>
+          <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" valign="middle" align="center"><font face="Calibri" color="#000000">Numeric </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+        </tr>
+        <tr>
+          <td valign="middle" height="17" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+          <td valign="middle" align="center"><font face="Calibri" color="#000000"><br>
+            </font></td>
+        </tr>
+        <tr>
+          <td colspan="7" rowspan="6" valign="top" height="102" align="left"><font face="Calibri" color="#000000">Log a
+              complaint and share docket no. ASAP. <br>
+              <br>
+              <br>
+              Regards, <br>
+              Mitesh Tambe <br>
+              Helpdesk_Mumbai <br>
+              Hitachi-Payments Service </font></td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+
+--------------84kQcVRyjnCIM0uz6YZC3l0h--
+
+--------------OupqJQ9tV7PnFnfQhK0G4M9B
+Content-Type: text/vcard; charset="UTF-8"; name="mitesh_tambe.vcf"
+Content-Disposition: attachment; filename="mitesh_tambe.vcf"
+Content-Transfer-Encoding: base64
+
+QkVHSU46VkNBUkQNClZFUlNJT046NC4wDQpGTjpNaXRlc2ggIFRhbWJlDQpOOlRhbWJlO01pdGVz
+aCA7OzsNClVJRDo2MmFlMTMwYi1hNDkyLTRiM2EtOGQxYy04MjUxNDUzZmVlN2YNCkVORDpWQ0FS
+RA0K
+
+--------------OupqJQ9tV7PnFnfQhK0G4M9B--
