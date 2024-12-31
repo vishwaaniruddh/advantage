@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Existing Page with Ace Editor</title>
+    <!-- Include the Ace Editor library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.12/ace.js"></script>
+    <!-- Set the editor theme (optional) -->
+    <style>
+        #editor {
+            width: 100%;
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Existing Page with Ace Editor</h1>
+
+    <!-- Ace Editor and "Run PHP Code" button -->
+    <div id="editor"></div>
+    <button id="run">Run PHP Code</button>
+    <div id="output"></div>
+
+    <script>
+        // Initialize Ace Editor
+        var editor = ace.edit("editor");
+        editor.setTheme("ace/theme/twilight"); // Set the editor theme
+        editor.getSession().setMode("ace/mode/php"); // Set the PHP mode
+
+        // Function to run PHP code (similar to the previous example)
+        document.getElementById("run").addEventListener("click", function () {
+            // ...
+        });
+    </script>
+</body>
+</html>
