@@ -1,0 +1,30 @@
+Options -Indexes
+ErrorDocument 403 /forbidden.html
+ErrorDocument 404 /clarity/pages/samples/error-404.php
+
+# <Directory "C:/xampp/htdocs">
+#     Options Indexes FollowSymLinks
+#     AllowOverride All
+#     Require all granted
+# </Directory>
+
+
+RewriteEngine On
+
+# Redirect requests from 103.216.208.237/clarity to http://103.216.208.237/clarity
+RewriteCond %{REMOTE_ADDR} ^103\.216\.208\.237$
+RewriteRule ^clarity$ http://103.216.208.237/clarity [P,L]
+
+# Redirect requests from 103.216.208.237/clarify to http://103.216.208.237/clarify
+RewriteCond %{REMOTE_ADDR} ^103\.216\.208\.237$
+RewriteRule ^clarify$ http://103.216.208.237/clarify [P,L]
+
+# # Redirect requests from 103.216.208.237/advantage to http://103.216.208.237/advantage
+# RewriteCond %{REMOTE_ADDR} ^103\.216\.208\.237$
+# RewriteRule ^advantage$ http://103.216.208.237/advantage [P,L]
+
+# RewriteCond %{REMOTE_ADDR} ^103\.216\.208\.237$
+# RewriteRule ^vendor$ http://103.216.208.237/RailTelVendor [P,L]
+
+# RewriteCond %{REMOTE_ADDR} ^103\.216\.208\.237$
+# RewriteRule ^inventory$ http://103.216.208.237/inventory [P,L]
